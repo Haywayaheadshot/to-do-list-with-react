@@ -26,7 +26,8 @@ To get a local copy up and running follow these simple example steps.
 To see live demo, click [here](https://dashing-cranachan-aa1109.netlify.app/)
 
 ### Setup
-- To clone the repository run this command - " git clone "
+- To clone the repository run this command - " git clone https://github.com/Haywayaheadshot/to-do-list-with-react.git"
+- cd 
 
 
 ## Author
