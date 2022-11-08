@@ -1,7 +1,7 @@
 import './App.css';
 import TodoList from './components/toDoList';
 
-const  App = () => {
+const App = () => {
   return (
     <div className="App">
       <TodoList />
