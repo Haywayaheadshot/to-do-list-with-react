@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Live Demo
 
-To see live demo, click [here](https://dashing-cranachan-aa1109.netlify.app/)
+To see live demo, click [here](https://eclectic-torte-6e5f3e.netlify.app/)
 
 ### Setup
 - To clone the repository run this command - " git clone "
